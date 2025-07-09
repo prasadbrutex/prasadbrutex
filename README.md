@@ -5,3 +5,7 @@
 ![VBA](https://img.shields.io/badge/VBA-MacroMaster-green?style=flat)
 ![Azure](https://img.shields.io/badge/Azure-Cloud-007FFF?logo=azure-devops&style=flat)
 ![SQL](https://img.shields.io/badge/SQL-QueryArtist-informational?logo=postgresql)
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasadbrutex&show_icons=true&theme=default)
