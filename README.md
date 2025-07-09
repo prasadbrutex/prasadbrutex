@@ -13,3 +13,8 @@
 ### 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=prasadbrutex&theme=default)](https://git.io/streak-stats)
+
+### 🧠 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadbrutex&layout=compact)
+
