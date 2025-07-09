@@ -9,3 +9,7 @@
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasadbrutex&show_icons=true&theme=default)
+
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=prasadbrutex&theme=default)](https://git.io/streak-stats)
